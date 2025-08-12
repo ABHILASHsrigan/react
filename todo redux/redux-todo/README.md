@@ -29,5 +29,7 @@ Click the 🗑️ button to delete it.
 
 
 ## 🔗 Video Link
-[🎬 Watch the video here]( https://drive.google.com/drive/folders/10gHbLs_tcqz8Z7OEFvMMRZZsyiSTmpso 
+[🎬 Watch the video here]( https://drive.google.com/file/d/1Nd1BBPVBO-Juc6JhemA7Waj-rxARELzt/view?usp=drive_link
+
+
 )
