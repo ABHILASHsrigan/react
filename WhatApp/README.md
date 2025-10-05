@@ -1,12 +1,56 @@
-# React + Vite
+📱 WhatsApp-like Chat Application (Firebase + CRUD)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a WhatsApp-inspired chat application built using React, Redux Toolkit, and Firebase.
+It demonstrates CRUD (Create, Read, Update, Delete) operations along with real-time messaging using Firebase Firestore.
 
-Currently, two official plugins are available:
+DEMO VIDEO
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+watch video (https://drive.google.com/file/d/1tYUJ9bbrtXPJL0Vb5hMEYM5lYoxVvCet/view?usp=sharing)
 
-## Expanding the ESLint configuration
+🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🔑 User Authentication (Firebase Authentication – Email/Password, Google Sign-In)
+
+👥 User Management (CRUD)
+
+Create new users (Sign up)
+
+Read user profiles & chat list
+
+Update user profile details (name, status, profile picture)
+
+Delete account
+
+💬 Chat Functionality (CRUD)
+
+Create new chats/messages
+
+Read messages in real-time from Firestore
+
+Update/edit messages
+
+Delete messages
+
+🔔 Real-time Messaging (Firestore real-time updates)
+
+🌓 Dark/Light Mode UI
+
+🔍 Search users & conversations
+
+📱 Responsive Design – Mobile-first WhatsApp-like layout
+
+🛠️ Tech Stack
+
+Frontend: React, Redux Toolkit, Tailwind CSS
+
+Database: Firebase Firestore (real-time NoSQL DB)
+
+Authentication: Firebase Auth (JWT-based)
+
+Storage: Firebase Storage (for profile pictures/media)
+
+Hosting (optional): Firebase Hosting
+
+
+
+

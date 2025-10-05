@@ -1,10 +1,17 @@
-import './App.css'
-import SignIn from './Screens/Auth/SignIn/SignIn.jsx'
+import React from 'react'
+import { Routes, Route, Navigate } from 'react-router-dom'
+import Auth from './components/Auth/Auth'
+import ChatLayout from './components/ChatLayout/ChatLayout'
 
-function App() {
+import { useAuthState } from './hooks/useAuthState'
+
+export default function App(){
+  const { user, loading } = useAuthState()
+  if(loading) return <div className="center">Loading...</div>
   return (
-    <SignIn /> 
+    <Routes>
+      <Route path="/auth" element={<Auth />} />
+      <Route path='/' element={user ? <ChatLayout /> : <Navigate to="/auth" />} />
+    </Routes>
   )
 }
-
-export default App
