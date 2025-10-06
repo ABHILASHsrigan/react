@@ -12,10 +12,11 @@ const firebaseConfig = {
   projectId: "chat-app-422e3",
   storageBucket: "chat-app-422e3.firebasestorage.app",
   messagingSenderId: "742207036754",
-  appId: "1:742207036754:web:59d8f59ddd8829e4e06e8b",
-  measurementId: "G-NVKPMNQPZ5"
+  appId: "1:742207036754:web:f661b67fa42471ece06e8b",
+  measurementId: "G-9BRWTPK7BP"
 };
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
 const analytics = getAnalytics(app);
+
