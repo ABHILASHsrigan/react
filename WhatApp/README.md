@@ -5,7 +5,7 @@ It demonstrates CRUD (Create, Read, Update, Delete) operations along with real-t
 
 DEMO VIDEO
 
-watch video (https://drive.google.com/file/d/1tYUJ9bbrtXPJL0Vb5hMEYM5lYoxVvCet/view?usp=sharing)
+watch video ()
 
 🚀 Features
 
