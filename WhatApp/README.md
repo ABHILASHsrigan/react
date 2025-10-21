@@ -21,7 +21,7 @@ Update user profile details (name, status, profile picture)
 
 Delete account
 
-💬 Chat Functionality (CRUD)
+💬 Chat Functionality (CRUD operations)
 
 Create new chats/messages
 
