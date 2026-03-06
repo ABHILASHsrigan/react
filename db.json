@@ -1,0 +1,100 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Complete project documentation",
+      "username": "john_doe",
+      "date": "20250307",
+      "status": 0,
+      "task_type": "Office"
+    },
+    {
+      "id": 2,
+      "task": "Buy groceries",
+      "username": "jane_smith",
+      "date": "20250308",
+      "status": 1,
+      "task_type": "Personal"
+    },
+    {
+      "id": 3,
+      "task": "Family dinner",
+      "username": "mike_wilson",
+      "date": "20250309",
+      "status": 0,
+      "task_type": "Family"
+    },
+    {
+      "id": 4,
+      "task": "Team meeting preparation",
+      "username": "sarah_jones",
+      "date": "20250310",
+      "status": 0,
+      "task_type": "Office"
+    },
+    {
+      "id": 5,
+      "task": "Gym workout",
+      "username": "alex_brown",
+      "date": "20250311",
+      "status": 1,
+      "task_type": "Personal"
+    },
+    {
+      "id": 6,
+      "task": "Friend's birthday party",
+      "username": "emma_davis",
+      "date": "20250312",
+      "status": 0,
+      "task_type": "Friends"
+    },
+    {
+      "id": 7,
+      "task": "Code review",
+      "username": "chris_miller",
+      "date": "20250313",
+      "status": 1,
+      "task_type": "Office"
+    },
+    {
+      "id": 8,
+      "task": "Weekend trip planning",
+      "username": "lisa_garcia",
+      "date": "20250314",
+      "status": 0,
+      "task_type": "Friends"
+    },
+    {
+      "id": 9,
+      "task": "Doctor appointment",
+      "username": "david_lee",
+      "date": "20250315",
+      "status": 0,
+      "task_type": "Personal"
+    },
+    {
+      "id": 10,
+      "task": "Project deadline",
+      "username": "amy_taylor",
+      "date": "20250316",
+      "status": 0,
+      "task_type": "Office"
+    },
+    {
+      "id": 11,
+      "task": "Movie night with family",
+      "username": "robert_anderson",
+      "date": "20250317",
+      "status": 1,
+      "task_type": "Family"
+    },
+    {
+      "id": 12,
+      "task": "Lunch meeting",
+      "username": "maria_thomas",
+      "date": "20250318",
+      "status": 0,
+      "task_type": "Office"
+    }
+  ]
+}
