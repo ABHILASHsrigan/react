@@ -1,6 +1,6 @@
 # Todo List Application
 
-A modern Todo List application with CRUD operations built using Axios and JSON-Server.
+A modern TOdo List application with CRUD operations built using Axios and JSON-Server.
 
 ## Features
 
@@ -125,3 +125,4 @@ todo-list-app/
 ## License
 
 This project is licensed under the MIT License.
+
